@@ -4,4 +4,4 @@ Git is free software.
 modified by nano
 modofied by vim~
 run farther
-git track changes
+git track changes of files
