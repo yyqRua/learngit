@@ -5,3 +5,4 @@ modified by nano
 modofied by vim~
 run farther
 git track changes of files
+dev: creating a new branch is quick
