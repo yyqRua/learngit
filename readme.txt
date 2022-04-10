@@ -3,7 +3,7 @@ Git is free software.
 余镒琦 rua！
 modified by nano
 modofied by vim~
-run farther
+run faster
 git track changes of files
 dev: creating a new branch is quick and simple
 merge with --no-ff
